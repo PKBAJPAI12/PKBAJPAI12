@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @PKBAJPAI12
+- 👋 Hi, I’m Prateek Bajpai
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structure & Algorithms
