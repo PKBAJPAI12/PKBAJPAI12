@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek Bajpai
 - I'm Computer science Student who ❤ loves to Code & Always Interested to learn and Explore New Technologies. 
 - Currently I'm pre-final year pursuing B.Tech in Computer Science 💻 from UIET, Kurukshetra.
--👀 Currently I am learning & Exploring Web Development and make Some Projects with using HTML, CSS, Bootstrap, JavaScript, PHP & MySQL and Exploring more Web Technologies for Efficient Work.
+- 👀 Currently I am learning & Exploring Web Development and make Some Projects with using HTML, CSS, Bootstrap, JavaScript, PHP & MySQL and Exploring more Web Technologies for Efficient Work.
 - 🌱 I’m currently learning Data Structure & Algorithms
