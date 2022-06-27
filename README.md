@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prateek Bajpai</h1>
 <h3 align="center">A passionate Full Stack Developer and Intern at Wipro</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkbajpai12&label=Profile%20views&color=0e75b6&style=flat" alt="pkbajpai12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkbajpai12" alt="pkbajpai12" /></a> </p>
-
-- 🔭 I’m currently working on [Clothing Ecommerce](https://github.com/PKBAJPAI12/Clothing-Ecommerce)
 
 - 💬 Ask me about **Java, C++,Data Structure and Hibernate and HTML,CSS**
 
 - 📫 How to reach me **prateek.cse.uiet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mrO7lltaDPJNrzOQqQ7Avc-dn8mwijBW/view](https://drive.google.com/file/d/1mrO7lltaDPJNrzOQqQ7Avc-dn8mwijBW/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
