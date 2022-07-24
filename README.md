@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Bajpai</h1>
 <h3 align="center">A passionate Full Stack Developer and Intern at Wipro</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkbajpai12" alt="pkbajpai12" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot**
 
@@ -11,7 +10,6 @@
 
 - 📫 How to reach me **prateek.cse.uiet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17nR5mfA_fJvzqgp20xt1OQ-uNA9iGQmi/view?usp=sharing](https://drive.google.com/file/d/17nR5mfA_fJvzqgp20xt1OQ-uNA9iGQmi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
