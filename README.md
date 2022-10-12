@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prateek Bajpai</h1>
-<h3 align="center">A passionate Full Stack Developer and Intern at Wipro</h3>
+<h3 align="center">CodeQuotient SuperCoder</h3>
 
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://pkbajpai12.github.io/prateekbajpai.github.io/](https://pkbajpai12.github.io/prateekbajpai.github.io/)
 
