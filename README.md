@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://pkbajpai12.github.io/prateekbajpai.github.io/](https://pkbajpai12.github.io/prateekbajpai.github.io/)
 
