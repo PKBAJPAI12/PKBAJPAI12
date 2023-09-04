@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pkbajpai12.github.io/prateekbajpai.github.io/](https://pkbajpai12.github.io/prateekbajpai.github.io/)
 
-- 💬 Ask me about **JavaScript, C++,Data Structure**
+- 💬 Ask me about **React Js, Node js, JavaScript, C++,Data Structure**
 
 - 📫 How to reach me **prateek.cse.uiet@gmail.com**
 
