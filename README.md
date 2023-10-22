@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://pkbajpai12.github.io/prateekbajpai.github.io/](https://pkbajpai12.github.io/prateekbajpai.github.io/)
+- 👨‍💻 All of my projects are available at [https://prateekbajpai.netlify.app](https://prateekbajpai.netlify.app)
 
 - 💬 Ask me about **React Js, Node js, JavaScript, C++,Data Structure**
 
