@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prateekbajpai.netlify.app](https://prateekbajpai.netlify.app)
 
-- 💬 Ask me about **React Js, Vue Js, Node js, JavaScript, C++,Data Structure**
+- 💬 Ask me about **React Js, Vue Js, Node js, JavaScript, C++, Java, Data Structure, ElasticSearch**
 
 - 📫 How to reach me **prateek.cse.uiet@gmail.com**
 
